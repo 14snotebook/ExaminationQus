@@ -1,0 +1,66 @@
+﻿1.Print output :my first program.
+2.Give one example on imporing namespace.✔️
+3.Give example on GetType().✔️
+4.Give example on implicit typed variable.✔️
+5.Give example on nullable value types.✔️
+6.Give example on boxing and unboxing.✔️
+7.Give one example on if✔️
+8.Give one example on switch.✔️
+9.Give example on forloop.✔️
+10.Give example on while loop.✔️
+11.Give example on do while loop.✔️
+12.Give example on foreach loop.✔️
+13.Give example on goto.✔️
+14.Give example on break.✔️
+15.Give example on continue.✔️
+16.Give example on return.✔️
+17.Give One example on sd array.✔️
+18.Give Example on td array.????????????????
+19.Give two examples on jagged array.???????????????
+oops
+====
+1)Give one example on methods.✔️
+2)Give one example on pass parameters to method.✔️
+3)Give one example on input and output parameters.✔️
+4)Give one example on constructor.✔️
+5)Give one example on default constructor and parameterized constructor.✔️
+6)Give One Example on instance variable and static variable.✔️
+7)Give one example on constant and readonly variable.✔️
+8)Give one example on static methods and instance methods.✔️
+9)Give one example on static constructor and instance constructor.✔️
+10)Give one example on inheritance.✔️
+11)Give one example on extension methods.✔️
+12)Give one example on abstract class.✔️
+13)Give one Example on destructor.✔️
+14)Give one Example on indexers.✔️
+15)Give one Example on delegates.✔️
+16)Give one Example on method overloading.✔️
+17)Give one Example on Constructor overloading.✔️
+18)Give one example on inheritance based method overloading.✔️
+19)Give one example on method overriding.✔️
+20)Give one example on method hiding.✔️
+21)Give one example on Operator Overloading.???????????????
+22)Give one example on sealed class and sealed methods.✔️
+23)Give Two examples on abstract class and abstract methods. Reffer --> op12_Abstract 👍
+24)Give example on interface.✔️
+25)Give example on structure.✔️
+26)Give example on access specifiers.
+27)Give example on language interoperability.
+28)Give example on destructors.
+29)Give example on properties.✔️
+30)Give example on enumerated properties.✔️
+31)Give example on indexers.  Reffer --> op14 ✔️ 👍
+32)Give example on delegates. Reffer --> op15✔️  👍
+33)Give example on single cast delegate and multicast delegate.
+34)Give example on anonymous delegates.
+35)Give example on exceptions and Exception handling.✔️
+36)Give example on system exception and application exception.✔️		Reffer --> op35_Exception 👍
+37)Give example on partial classes.✔️
+38)Give one example on stack.✔️
+39)Give one example on Arraylist.✔️
+40)Give one example on hashtable.✔️
+41)Give one example on generic collections.
+42)Give one example on Collection initializer.
+43)Give two examples on linq to collections.
+44)Give one example on private assembly.
+45)Give one example on shared assembly.u

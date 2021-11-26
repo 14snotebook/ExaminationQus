@@ -1,0 +1,16 @@
+D:\console\ExaminationQustions\ExaminationQustions\bin\Debug\net5.0\ExaminationQustions.exe
+D:\console\ExaminationQustions\ExaminationQustions\bin\Debug\net5.0\ExaminationQustions.deps.json
+D:\console\ExaminationQustions\ExaminationQustions\bin\Debug\net5.0\ExaminationQustions.runtimeconfig.json
+D:\console\ExaminationQustions\ExaminationQustions\bin\Debug\net5.0\ExaminationQustions.runtimeconfig.dev.json
+D:\console\ExaminationQustions\ExaminationQustions\bin\Debug\net5.0\ExaminationQustions.dll
+D:\console\ExaminationQustions\ExaminationQustions\bin\Debug\net5.0\ref\ExaminationQustions.dll
+D:\console\ExaminationQustions\ExaminationQustions\bin\Debug\net5.0\ExaminationQustions.pdb
+D:\console\ExaminationQustions\ExaminationQustions\obj\Debug\net5.0\ExaminationQustions.csprojAssemblyReference.cache
+D:\console\ExaminationQustions\ExaminationQustions\obj\Debug\net5.0\ExaminationQustions.GeneratedMSBuildEditorConfig.editorconfig
+D:\console\ExaminationQustions\ExaminationQustions\obj\Debug\net5.0\ExaminationQustions.AssemblyInfoInputs.cache
+D:\console\ExaminationQustions\ExaminationQustions\obj\Debug\net5.0\ExaminationQustions.AssemblyInfo.cs
+D:\console\ExaminationQustions\ExaminationQustions\obj\Debug\net5.0\ExaminationQustions.csproj.CoreCompileInputs.cache
+D:\console\ExaminationQustions\ExaminationQustions\obj\Debug\net5.0\ExaminationQustions.dll
+D:\console\ExaminationQustions\ExaminationQustions\obj\Debug\net5.0\ref\ExaminationQustions.dll
+D:\console\ExaminationQustions\ExaminationQustions\obj\Debug\net5.0\ExaminationQustions.pdb
+D:\console\ExaminationQustions\ExaminationQustions\obj\Debug\net5.0\ExaminationQustions.genruntimeconfig.cache
