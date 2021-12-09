@@ -1,0 +1,16 @@
+D:\aspnet\lab\LOGICAL\LOGICAL\bin\Debug\net5.0\LOGICAL.exe
+D:\aspnet\lab\LOGICAL\LOGICAL\bin\Debug\net5.0\LOGICAL.deps.json
+D:\aspnet\lab\LOGICAL\LOGICAL\bin\Debug\net5.0\LOGICAL.runtimeconfig.json
+D:\aspnet\lab\LOGICAL\LOGICAL\bin\Debug\net5.0\LOGICAL.runtimeconfig.dev.json
+D:\aspnet\lab\LOGICAL\LOGICAL\bin\Debug\net5.0\LOGICAL.dll
+D:\aspnet\lab\LOGICAL\LOGICAL\bin\Debug\net5.0\ref\LOGICAL.dll
+D:\aspnet\lab\LOGICAL\LOGICAL\bin\Debug\net5.0\LOGICAL.pdb
+D:\aspnet\lab\LOGICAL\LOGICAL\obj\Debug\net5.0\LOGICAL.csprojAssemblyReference.cache
+D:\aspnet\lab\LOGICAL\LOGICAL\obj\Debug\net5.0\LOGICAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnet\lab\LOGICAL\LOGICAL\obj\Debug\net5.0\LOGICAL.AssemblyInfoInputs.cache
+D:\aspnet\lab\LOGICAL\LOGICAL\obj\Debug\net5.0\LOGICAL.AssemblyInfo.cs
+D:\aspnet\lab\LOGICAL\LOGICAL\obj\Debug\net5.0\LOGICAL.csproj.CoreCompileInputs.cache
+D:\aspnet\lab\LOGICAL\LOGICAL\obj\Debug\net5.0\LOGICAL.dll
+D:\aspnet\lab\LOGICAL\LOGICAL\obj\Debug\net5.0\ref\LOGICAL.dll
+D:\aspnet\lab\LOGICAL\LOGICAL\obj\Debug\net5.0\LOGICAL.pdb
+D:\aspnet\lab\LOGICAL\LOGICAL\obj\Debug\net5.0\LOGICAL.genruntimeconfig.cache
